@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ookaihith.jessica-eldredge.com/sitemap.xml
